@@ -3,7 +3,7 @@
 // this comment was added before i tried to push from visual studio
 
 
-
+//this should only be in the newFeature branch
 
 using MailKit.Net.Smtp;
 using MimeKit;

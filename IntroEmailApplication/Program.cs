@@ -1,4 +1,10 @@
-﻿using MailKit.Net.Smtp;
+﻿//thsi is a new comment im adding
+
+
+
+
+
+using MailKit.Net.Smtp;
 using MimeKit;
 
 namespace IntroEmailApplication
